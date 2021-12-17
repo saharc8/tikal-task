@@ -1,0 +1,14 @@
+#results {
+  border-collapse: collapse;
+  width: 40%;
+  padding: 30px;
+  margin: 30px;
+  background-color: rgb(19 22 66);
+}
+
+#results td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  font-size: 2rem;
+  color: white;
+}
